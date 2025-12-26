@@ -36,6 +36,7 @@ CLI (Command Line Interface) significa que a interação com o usuário é feita
     "data_vencimento": str,
     "Complete": bool
 }
+```
 
 ## ▶️ Como Executar
 
