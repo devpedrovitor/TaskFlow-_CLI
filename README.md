@@ -46,6 +46,7 @@ CLI (Command Line Interface) significa que a interação com o usuário é feita
 ### Execução
 ```bash
 python main.py
+```
 
 ## 📜 Menu do Sistema
 
